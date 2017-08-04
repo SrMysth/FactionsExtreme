@@ -1,6 +1,15 @@
 name: FactionsPro
-version: 0.1.0
-api: ["2.0.0"]
-main: SrMysth\FactionsMain;
-website: https:\\github.com\SrMysth
-author: SrMysth
+author: Tethered_
+description: Factions edit by DayKoala
+version: 0.3
+main: FactionsPro\FactionMain
+api:
+- 2.0.0
+commands:
+  f:
+    description: use /f help
+    permission: f.command
+permissions:
+  f.command:
+    default: true
+    description: "Allow use of all faction commands"
