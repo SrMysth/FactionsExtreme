@@ -1,0 +1,6 @@
+name: FactionsPro
+version: 0.1.0
+api: ["2.0.0"]
+main: SrMysth\FactionsMain;
+website: https:\\github.com\SrMysth
+author: SrMysth
