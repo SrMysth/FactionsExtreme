@@ -1,6 +1,6 @@
 name: FactionsPro
-author: Tethered_
-description: Factions edit by DayKoala
+author: SrMysth
+description: Factions plugin
 version: 0.3
 main: FactionsPro\FactionMain
 api:
